@@ -29,7 +29,8 @@ Playwright | JavaScript | TypeScript | Postman | SQL | Git | GitHub | JIRA | Azu
 - Healthcare AI Workflow Testing
 
 ### Resume
-📄 [Download My Resume](./Vaibhav_Salunke_Resume.pdf)
+
+📄 [Download My Resume](./Vaibhav%20Salunke_QA_Automation%20Resume.pdf)
 
 ### Professional Summary
 ✔ 6+ Years in Software Testing  
@@ -41,5 +42,5 @@ Playwright | JavaScript | TypeScript | Postman | SQL | Git | GitHub | JIRA | Azu
 ✔ SQL & Database Testing
 
 ### Connect With Me
-💼 LinkedIn: [Add your LinkedIn Profile URL here](https://www.linkedin.com/in/vaibhav-salunke-4694a7253/)
+💼 LinkedIn: [Vaibhav Salunke](https://www.linkedin.com/in/vaibhav-salunke-4694a7253/)
 📧 Email: vaibhavkrsalunke85@gmail.com
