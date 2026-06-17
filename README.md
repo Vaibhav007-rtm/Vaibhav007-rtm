@@ -1,6 +1,6 @@
 # Hi, I'm Vaibhav Salunke 👋
 
-## Software QA Analyst | Immediate Joiner | 6+ Years Experience
+## Software QA Analyst | Playwright Automation | API Testing | AI/LLM & AI/ML Validation | 6+ Years Experience
 
 ### About Me
 Experienced QA Professional with 6+ years of experience in Web and Mobile Testing, Playwright Automation, API Testing, Database Testing, and AI/ML Validation. Skilled in delivering high-quality software through functional, regression, integration, and end-to-end testing.
